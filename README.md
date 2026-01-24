@@ -11,13 +11,16 @@ python l4-syntax.py
 python l5-output.py
 python l6-comments.py
 python l7-variables.py
+python l8-dataTypes.py
+python l9-numbers.py
+python l10-casting.py
 cd ..
 
 cd MyProject
 python calculator.py
 
 git add .
-git commit -m "Course n 1"
+git commit -m "3-Day"
 git push -u origin main
 ```
 
@@ -30,3 +33,7 @@ Le 23-01-2026
 5. Pyhon Output
 6. Pyhon Comments
 7. Pyhon Variables
+Le 24-01-2026
+8. Python Data Types
+9. Python Numbers
+10. Python Casting

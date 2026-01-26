@@ -14,6 +14,8 @@ python l7-variables.py
 python l8-dataTypes.py
 python l9-numbers.py
 python l10-casting.py
+python l11-strings.py
+python l11-stringsMethods.py
 cd ..
 
 cd MyProject
@@ -37,3 +39,5 @@ Le 24-01-2026
 8. Python Data Types
 9. Python Numbers
 10. Python Casting
+Le 25-01-2026
+11. Python Strings

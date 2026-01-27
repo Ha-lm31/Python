@@ -16,13 +16,14 @@ python l9-numbers.py
 python l10-casting.py
 python l11-strings.py
 python l11-stringsMethods.py
+python l12-booleans.py
 cd ..
 
 cd MyProject
 python calculator.py
 
 git add .
-git commit -m "3-Day"
+git commit -m "5-Day"
 git push -u origin main
 ```
 
@@ -31,13 +32,24 @@ Le 22-01-2026
 2. Pyhon Intro
 3. Pyhon Get Started
 4. Pyhon Syntax
+
 Le 23-01-2026
+
 5. Pyhon Output
 6. Pyhon Comments
 7. Pyhon Variables
+
 Le 24-01-2026
+
 8. Python Data Types
 9. Python Numbers
 10. Python Casting
-Le 25-01-2026
+
+Le 25-01-2026 & Le 26-01-2026
+
 11. Python Strings
+    1) Python String Methods
+
+Le 27-01-2026
+
+12. Python Booleans

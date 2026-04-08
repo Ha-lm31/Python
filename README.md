@@ -17,13 +17,14 @@ python l10-casting.py
 python l11-strings.py
 python l11-stringsMethods.py
 python l12-booleans.py
+python l13-operators.py
 cd ..
 
 cd MyProject
 python calculator.py
 
 git add .
-git commit -m "5-Day"
+git commit -m "7-Day"
 git push -u origin main
 ```
 
@@ -48,8 +49,12 @@ Le 24-01-2026
 Le 25-01-2026 & Le 26-01-2026
 
 11. Python Strings
-    1) Python String Methods
+    1) Python String Methods (10/45)
 
 Le 27-01-2026
 
 12. Python Booleans
+
+Le 08-03-2026
+
+13. Python Operators

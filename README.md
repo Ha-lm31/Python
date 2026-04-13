@@ -24,7 +24,7 @@ cd MyProject
 python calculator.py
 
 git add .
-git commit -m "7-Day"
+git commit -m "8-Day"
 git push -u origin main
 ```
 

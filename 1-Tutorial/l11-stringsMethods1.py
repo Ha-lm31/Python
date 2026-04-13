@@ -98,7 +98,7 @@ x = txt.find("e", 5, 10)
 print(x)
 txt = "Hello, welcome to my world."
 print(txt.find("q"))
-print(txt.index("q"))
+#print(txt.index("q"))
 
 # 9- format() : Formats specified values in a string,
 ## Insert the price inside the placeholder, the price should be in fixed point, two-decimal format

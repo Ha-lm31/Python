@@ -85,3 +85,17 @@ print(10 == 9)
 print(bool("Hello"))
 # Print the result of bool(0)
 print(bool(0))
+
+## Operators
+# Create variables
+a = 15
+b = 4
+# Print modulus
+print(a%b)
+# Print floor division
+print(a//b)
+# Print power
+print(a**b)
+# Add 10 to a
+a += 10
+ 

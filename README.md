@@ -58,3 +58,157 @@ Le 27-01-2026
 Le 08-03-2026
 
 13. Python Operators
+
+
+"""
+# Lessons
+## TUTORIAL
+1. HOME
+2. Intro
+3. Get Started
+4. Syntax
+5. Output
+6. Comments
+7. Variables
+8. Data Types
+9. Numbers
+10. Casting
+11. Strings
+12. Booleans
+13. Operators
+14. Lists
+15. Tuples
+16. Sets
+17. Dictionaries
+18. If...Else
+19. Match
+20. While Loops
+21. For Loops
+22. Functions
+23. Range
+24. Arrays
+25. Iterators
+26. Modules
+27. Dates
+28. Math
+29. JSON
+30. RegEx
+31. PIP
+32. Try...Except
+33. String Formatting
+34. None
+35. User Input
+36. VirtualEnv
+
+## CLASSES
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+## HANDLING
+1. 
+2. 
+3. 
+4. 
+
+## MODULES
+1. 
+2. 
+3. 
+4. 
+
+## MATPLOTLIP
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+
+## MACHINE LEARNING
+
+## DSA
+
+## MYSQL
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+
+## MONGODB
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+
+## CERT
+1. 
+
+## REFERENCE
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+
+## MODULE REFERENCE
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+## HOW TO
+1. 
+2. 
+3. 
+
+## EXAMPLES
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+"""

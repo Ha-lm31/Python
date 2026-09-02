@@ -20,10 +20,13 @@ git push -u origin main
 3. Python Get Started
 4. Python Syntax 
     
-@01-09-2026
+@02-09-2026
 
 5. Python Output
 6. Python Comments
+
+@
+
 7. Python Variables
 8. Python Data Types
 9. Python Numbers

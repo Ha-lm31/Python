@@ -25,9 +25,12 @@ git push -u origin main
 5. Python Output
 6. Python Comments
 
-@
+@03-09-2026
 
 7. Python Variables
+
+@
+
 8. Python Data Types
 9. Python Numbers
 10. Python Casting

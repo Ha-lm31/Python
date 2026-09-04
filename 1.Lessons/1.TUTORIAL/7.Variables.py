@@ -32,14 +32,14 @@ print(a)
 print(A)
 print("A will not overwrite a")
 
-print("2---Variable Names")
+print("\n2---Variable Names")
 print('''
 Rules for Python variables:
- -A variable name must start with a letter or the underscore (_) character
- -A variable name cannot start with a number
- -A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
- -Variable names are case-sensitive (age, Age and AGE are three different variables)
- -A variable name cannot be any of the Python keywords.
+\n -A variable name must start with a letter or the underscore (_) character
+\n -A variable name cannot start with a number
+\n -A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+\n -Variable names are case-sensitive (age, Age and AGE are three different variables)
+\n -A variable name cannot be any of the Python keywords.
 ''')
 myvar = "John"
 my_var = "John"
@@ -55,21 +55,21 @@ print(MYVAR)
 print(myvar2)
 print("Legal variable names : myvar, my_var, _my_var, myVar, MYVAR, myvar2.")
 '''
-2myvar = "John"
-my-var = "John"
-my var = "John"
-#This example will produce an error in the result
+\n2myvar = "John"
+\nmy-var = "John"
+\nmy var = "John"
+\n#This example will produce an error in the result
 '''
 print("Illegal variable names : 2myvar, my-var, my var.")
 print("Multi Words Variable Names")
 print("1.Camel Case : Each word, except the first, starts with a capital letter.")
-print("myVariableName = 'John')
+print("myVariableName = 'John'")
 print("2.Pascal Case : Each word starts with a capital letter.")
 print("MyVariableName = 'John'")
 print("3.Snake Case : Each word is separated by an underscore character.")
 print("my_variable_name = 'John'")
 
-print("3---Assign Multiple Values")
+print("\n3---Assign Multiple Values")
 print("1.Python allows you to assign values to multiple variables in one line.")
 x, y, z = "Orange", "Banana", "Cherry"
 print(x)
@@ -81,14 +81,14 @@ x = y = z = "Orange"
 print(x)
 print(y)
 print(z)
-print("3.If you have a collection of values in a list, tuple etc. Python allows you to extract the values into variables. This is called unpacking.")
+print("3.If you have a collection of values in a list, tuple etc. \nPython allows you to extract the values into variables. \nThis is called unpacking.")
 fruits = ["apple", "banana", "cherry"]
 x, y, z = fruits
 print(x)
 print(y)
 print(z)
 
-print("4---Output Variables")
+print("\n4---Output Variables")
 print("1.The print() function is often used to output variables.")
 x = "Python is awesome"
 print(x)
@@ -109,16 +109,16 @@ y = 10
 print(x + y)
 print("In the print() function, when you try to combine a string and a number with the + operator, Python will give you an error")
 '''
-x = 5
-y = "John"
-print(x + y)
+\nx = 5
+\ny = "John"
+\nprint(x + y)
 '''
 print("The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types")
 x = 5
 y = "John"
 print(x, y)
 
-print("5---Global Variables")
+print("\n5---Global Variables")
 print("1.Global variables can be used by everyone, both inside of functions and outside.")
 print("##Create a variable outside of a function, and use it inside the function")
 x = "awesome"

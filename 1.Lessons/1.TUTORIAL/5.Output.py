@@ -1,5 +1,4 @@
-# ---Print Text
-
+print("1---Print Text")
 print("Hello World!")
 print("Hello World!")
 print("I am learning Python.")
@@ -12,7 +11,7 @@ print('This will also work!')
 print("Hello World!", end=" ")
 print("I will print on the same line.")
 
-# ---Print Numbers
+print("\n2---Print Numbers")
 print(3)
 print(358)
 print(50000)

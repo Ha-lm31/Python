@@ -145,3 +145,7 @@ def myfunc():
   x = "fantastic"
 myfunc()
 print("Python is " + x)
+
+print("\n6---Python - Variable Exercises")
+
+print("\n7---Python Variables Code Challenge")

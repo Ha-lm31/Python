@@ -1,3 +1,4 @@
+print("1---Python Getting Started")
 print("Hello, World!")
 print('''
 To check if Python is installed on Windows, search in the start bar for Python or run the following on the Command Line (cmd.exe):

@@ -19,3 +19,5 @@ print(3 + 3)
 print(2 * 5)
 ## Mix Text and Numbers
 print("I am", 35, "years old.")
+
+print("\n3---Python Output Code Challenge")

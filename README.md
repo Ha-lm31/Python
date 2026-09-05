@@ -8,29 +8,19 @@ python <fichier>
 cd ..
 
 git add .
-git commit -m "010926"
+git commit -m "01-09-26"
 git push -u origin main
 ```
 
-# Lessons
-## 1-PYTHONTUTORIAL
-@01-09-2026
+# A.Lessons
+## 1.PYTHON TUTORIAL
 1. Python HOME
 2. Python Intro
 3. Python Get Started
 4. Python Syntax 
-    
-@02-09-2026
-
 5. Python Output
 6. Python Comments
-
-@03-09-2026
-
 7. Python Variables
-
-@
-
 8. Python Data Types
 9. Python Numbers
 10. Python Casting

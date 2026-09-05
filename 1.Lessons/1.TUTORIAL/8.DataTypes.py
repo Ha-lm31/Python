@@ -73,3 +73,5 @@ x = bytearray(5)
 print("Variable : ",x,"\nYour Type : ",type(x))
 x = memoryview(bytes(5))
 print("Variable : ",x,"\nYour Type : ",type(x))
+
+print("\n2---Python Data Types Code Challenge")

@@ -37,3 +37,5 @@ print('''
 print("Python is fun!") print("Really!")
 ''')
 print("Best practice: Put each statement on its own line so your code is easy to understand.")
+
+print("\n3---Python Syntax Code Challenge")

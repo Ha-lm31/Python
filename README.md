@@ -8,7 +8,7 @@ python <fichier>
 cd ..
 
 git add .
-git commit -m "01-09-26"
+git commit -m "10-09-26"
 git push -u origin main
 ```
 

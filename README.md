@@ -13,7 +13,7 @@ git push -u origin main
 ```
 
 # A.Lessons
-## 1.PYTHON TUTORIAL
+## 1-PYTHON TUTORIAL
 1. Python HOME
 2. Python Intro
 3. Python Get Started

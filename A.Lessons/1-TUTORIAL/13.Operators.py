@@ -108,7 +108,7 @@ print("Greater than or equal to: ",x >= y)
 print("Less than or equal to: ",x <= y)
 print("Chaining Comparison Operators")
 x = 5
-print("x = 5)
+print("x = 5")
 print("\t1 < x < 10: ",1 < x < 10)
 print("\t1 < x and x < 10: ",1 < x and x < 10)
 

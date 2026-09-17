@@ -1,14 +1,12 @@
 #d-1 : 13-09-2026
 print("1.count() : Returns the number of times a specified value occurs in a tuple")
-print("Python Tuple count() Method")
 thistuple = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
 x = thistuple.count(5)
 print(thistuple)
 print('\tx = thistuple.count(5): ',x)
 print("Syntax : tuple.count(value)")
 
-print("2.index() : 	Searches the tuple for a specified value and returns the position of where it was found")
-print("Python Tuple index() Method")
+print("\n2.index() : 	Searches the tuple for a specified value and returns the position of where it was found")
 thistuple = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
 x = thistuple.index(8)
 print(thistuple)
